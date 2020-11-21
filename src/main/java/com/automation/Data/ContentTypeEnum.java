@@ -14,4 +14,9 @@ public class ContentTypeEnum {
             this.contentType = content;
         }
     }
+
+
+    public void testMethod() {
+        System.out.println("Test Method !!!");
+    }
 }
